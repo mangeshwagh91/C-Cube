@@ -1,0 +1,23 @@
+{
+  "name": "zzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "react": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
+
